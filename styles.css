@@ -1,0 +1,132 @@
+/*apply as a default */
+* {
+    margin: 0;
+    padding: 0;
+    }
+    
+
+ /*apply dimensions  in the ul li content */
+ul li {
+    list-style:none;  
+    display: inline-block;
+    line-height: 1px;
+    padding:10 50px;
+    width: 100px;
+    height: 100px;
+    
+}
+
+/*apply the styling to the ul li a content */
+ul li a {
+    display: inline-block;
+    text-decoration: none;    
+    font-size: 22px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Cookie', cursive;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+    color:rgb(252, 249, 249);
+    padding:10px 30px;
+    line-height: 70px;
+    height: 100px;
+    width: 100px;
+    white-space: nowrap;
+    
+} 
+
+/*change the background color*/
+nav {
+    background-color: #565254;
+}
+
+/*change the font, color and position*/
+h4 {
+    font-size: 22px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Cookie', cursive;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+    color:#7A7D7D;
+    padding-left: 10px;
+}
+
+/*change the font, color and position*/
+p {
+    font-size: 22px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Cookie', cursive;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+    color:black;
+    padding-left: 20px;
+
+}
+
+/*change the font, color and position*/
+div p {
+    font-size: 22px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Cookie', cursive;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+    color:black;
+    padding-left: 20px;
+    background-color:#7A7D7D;
+    height:60px;
+    padding-top: 40px;
+
+}
+
+/*change the font, color and position*/
+form {
+    font-size: 22px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Cookie', cursive;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+    color:black;
+    padding-left: 20px;
+
+}
+
+/*change the font, color, shape and position*/
+input[type="submit"] {
+
+    background-color: #555151;
+    border-radius: 20px;
+    font-size: 16px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Cookie', cursive;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+    border: none;
+    padding: 7px 15px;
+    color:white;
+
+}
+
+/*change the font*/
+input[type="file"] {
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Cookie', cursive;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+/*change the font, color and position*/
+footer p{
+    font-size: 15px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Cookie', cursive;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+    color:white;
+    padding-left: 10px;
+    background-color: #565254;
+    height:20px;
+    padding-top: 15px;
+    text-align: center;
+    
+
+}
+
